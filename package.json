@@ -1,5 +1,5 @@
 {
-  "name": "backend_agosto-2023",
+  "name": "jornada-backend-agosto-23",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
+    "mongodb": "^6.0.0"
+  },
+  "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
